@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Character of a true Protestant English souldier with that of a doublet-pinking bully-hec, or a cowardly-spirited animal who dares not venture his life in the service of his country.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31715</idno>
+            <idno type="STC">Wing C1997</idno>
+            <idno type="STC">ESTC R43080</idno>
+            <idno type="EEBO-CITATION">26770863</idno>
+            <idno type="OCLC">ocm 26770863</idno>
+            <idno type="VID">109783</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31715)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 109783)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1712:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Character of a true Protestant English souldier with that of a doublet-pinking bully-hec, or a cowardly-spirited animal who dares not venture his life in the service of his country.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by E.W. for J. Gibbs,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon.</note>
+                  <note>"With allowance."</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Humor.</term>
+               <term>Great Britain --  History --  James II, 1685-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:109783:1" rendition="simple:additions"/>
+            <head>THE CHARACTER Of a True ENGLISH Proteſtant Souldier; With That of a <hi>Doublet-Pinking Bully-Hec,</hi> OR, A Cowardly-Spirited ANIMAL, Who dares not Venture his LIFE in the Service of his COUNTRY.</head>
+            <p>A <hi>Souldier,</hi> however Born, is a <hi>Gen<g ref="char:EOLhyphen"/>tleman</hi> by his Profeſſion; and that which undeniably proves him ſo, is, that he values his Honour a<g ref="char:EOLhyphen"/>bove his Life. He is too Jealous of ſlippery Fame, to truſt her ſo long on the tickliſh Precipice of a doubtful Succeſſion; and therefore with his own merit, he either ſup<g ref="char:EOLhyphen"/>ports the Credit of an Antient Family, or lays the Foundation of a new one: he thinks it not ſufficient to ſay his Fore-Fathers were Valiant, unleſs himſelf be ſo too; and would
+<pb n="2" facs="tcp:109783:2" rendition="simple:additions"/>ſuſpect his own Mothers Fidelity, did he not find himſelf in poſſeſſion of his Fathers Courage.</p>
+            <p>The <hi>Politician</hi> calls the Souldier, <hi>The Bul<g ref="char:EOLhyphen"/>wark of a Nation;</hi> and whilſt I behold ours in their ruddy Apparel, methinks every one looks like a contributing Brick, to thoſe Im<g ref="char:EOLhyphen"/>pregnable Walls; for they are Cemented with Loyalty inſtead of Lime; and whilſt they ſtand in defence of their King and Countrey, we need not doubt but they will eaſily undergo the fierceſt ſhock of the moſt Potent Enemy. The Sea and Theſe, look like a <hi>Tautologie,</hi> where Illiterate Na<g ref="char:EOLhyphen"/>ture might have ſpar'd the firſt, ſince ſhe has been ſo liberal in the latter. They were certainly ſuch Stones as theſe, which (like Epicurean's wanton Atoms) Danc't to the Jigg at <hi>Thebes,</hi> and by an accidental hit, ſet<g ref="char:EOLhyphen"/>tled there into a VVall, as the other into a VVorld. However I am confident ours will prove ſo Flinty a one, that they who ſtorm it, muſt ſtrike that Fire which will revert to their own Deſtruction.</p>
+            <p>But not to digreſs: —</p>
+            <p>A Souldier is one, who (as Heaven has given him a Soul, ſo he) knows how to uſe it: He is ſenſible of the difference between Honour and Infamy, ſo that the horrid ap<g ref="char:EOLhyphen"/>prehenſions of a baſe Life, drives him from the Fire to the Field; where carried on by an undaunted reſolution, he many times obtains at once, the Souldiers three grand <hi>Utinams,</hi> Fame, Preferment, and Victory: whilſt others by the ſilent Rhetorick of an inſipid Life, ſeem to make good <hi>Charroon</hi>'s indifferency about <hi>Senſe</hi> and <hi>Reaſon</hi> —</p>
+            <p>If any man may be compared to the <hi>Souldier,</hi> it is (excepting himſelf) the beſt of Men, the <hi>Philoſopher;</hi> for they both car<g ref="char:EOLhyphen"/>ry their chiefeſt Treaſures about them, Courage and Learning, the One current in the Town, the Other in the Field. The <hi>Souldier</hi> thinks not himſelf in want when his Mony fails, but when his Spirit fails him; and then he knows he cannot ſuffer long, for his death muſt immediately follow. Sterling-Valour is the only Coin that paſſes in <hi>Glory</hi>'s <hi>Forum,</hi> and he who has that ſhall be ſure either to purchaſe Dominions, or at leaſt the favour of him that rules them.</p>
+            <p>As Summer calls the Husband-man, ſo VVar beckons the <hi>Souldier</hi> into the Field; that alone's his time of Harveſt, his Sword is his Sickle, and out of men cut cloſe down and well thraſh'd, he maintains both him<g ref="char:EOLhyphen"/>ſelf and his Family; nor is he ſo prodigal of his dear-bought Reputation, as to ex<g ref="char:EOLhyphen"/>hauſt it all in his life-time, but as one never weary of doing good, by a continuance of generous Actions, ſtill keeps up the old Stock; which ere his Death being put into the ſafe Repoſitory of ſome Chronicle or Hiſtory, he afterwards dying, bequeaths it as a Legacy to his emulating Succeſſors.</p>
+            <p>Of all ſights in the World, the Back-ſide of a Coward is moſt hateful to him: he had rather charge the Devil in the Teeth, than him in the Poſteriors. A Flying Foe he looks on, as the worſt queſt he can fol<g ref="char:EOLhyphen"/>low, becauſe generally the Game's not worth the hanging, when 'tis caught. His Courage and Reaſon have made a Marri<g ref="char:EOLhyphen"/>age, whereof a Succeſſion of Noble Actions are the commendable Iſſue; theſe like <hi>Epa<g ref="char:EOLhyphen"/>minondas</hi> his two Victories, he may worthi<g ref="char:EOLhyphen"/>ly call his Daughters; and need not fear the harſh attacks of Time, ſo long as they ſhall aſſuredly live, and reſcue him from the aſſaults of Oblivion.</p>
+            <pb n="3" facs="tcp:109783:2"/>
+            <p>If his Birth be obſcure, yet it is his com<g ref="char:EOLhyphen"/>fort to think, that all Families have had a time for their riſe; and that no Ages have been fruitful in ſuch Productions, as thoſe of War, wherein the meaneſt Souldier has ſometimes out-ſtript his General; and by a ſwift Progreſſion in the Race of Honour, has at length come to command even his <hi>Com<g ref="char:EOLhyphen"/>mander.</hi>
+            </p>
+            <p>No man is ſo liable to Advancement, as himſelf: He has the whole World for his Scene; and 'till all its Inhabitants fall aſleep together, he need not fear want of Im<g ref="char:EOLhyphen"/>ployment. The firſt day he <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſts himſelf, he bids fair for Preferment, and runs as great a hazzard of Knighthood, as of Death in every attempt. Let him look which way he will, he finds no room for Fear; for if his time be come, he thinks no place ſo fit to expire in, as the Field, which is the Bed of Honour; but if the Thread of his Life be not yet wound up, he knows it lies not in the reach of any Accident to ſhor<g ref="char:EOLhyphen"/>ten it. In the Time of War, he looks on the World as reduc'd to a Lottery, where he that has the greateſt Courage, is ſure to draw the richeſt Prize. This it is, that makes him ſtrut in Rags, and rate himſelf not ac<g ref="char:EOLhyphen"/>cording to his <hi>Habit,</hi> but his <hi>Heart;</hi> as long as that's good, his Fortune cannot be other<g ref="char:EOLhyphen"/>wiſe, ſo that how low ſoever he is at pre<g ref="char:EOLhyphen"/>ſent, he looks on himſelf as a Commander <hi>in Futuro.</hi>
+            </p>
+            <p>A <hi>Souldier</hi> is certainly the beſt <hi>Logician;</hi> for as he ſeldom or never diſputes, but in a good Cauſe, ſo he generally carries the <hi>Concluſion</hi> in his Scabboard. Like the choic<g ref="char:EOLhyphen"/>eſt Phyſicks, his worth may be undervalued, during the wanton Interval of a Kingdoms Health; but if her Politick Body, like our Natural Ones, through an exceſs of Eaſe and Luxury, reel in Sickneſs, 'tis he alone is the known Antidote againſt the Peſtilence of Diſſention: Like Fire, he cures by Sym<g ref="char:EOLhyphen"/>pathy, driving out one Sword with another; and by the extraordinary heat of his own Courage draws out That of his Enemies. He holds it next to his Creed, That no Coward can be an Honeſt Man. He knows the haz<g ref="char:EOLhyphen"/>zard of Battles, not the Pomp of Ceremo<g ref="char:EOLhyphen"/>ny, are the Souldiers beſt Theatre; and looks not on himſelf indebted to the mul<g ref="char:EOLhyphen"/>titude, but to his own Actions, for his Glory.</p>
+            <p>In ſhort, He is One who is deaf to Dangers, in whoſe Ears the Calls of Honour out-roar a Cannon, and the Invitations to Glory drown a <hi>Demiculverin.</hi> Next to his <hi>KING,</hi> he is his <hi>Countries</hi> Guardian; and She owes her welfare to his Courage and Conduct. Laſtly, When the Fertility of his Actions have folded him up in Peace, he leans his Silver-Head towards the Golden Scepter, and dies happily inveloped in his Princes Arms.</p>
+            <div type="part">
+               <head>The Character of a Coward, or Bully-Hec.</head>
+               <p>BUT a <hi>Coward</hi> is certainly the ſhame of his <hi>Species.</hi> He is <hi>Human Nature Traveſtied,</hi> or the mock man, who (Munkey-like) wou'd undervalue the real one, by reſembling him. His Heart, like a Pidgeons Gall, lies in his Guts; and nothing under a Gallon of Uſ<g ref="char:EOLhyphen"/>que-Baugh, or Kilderkin of Ale, can chace it up to his Stomach. He is never Quarrelſom till he is Drunk; for then he knows his weakneſs, like a womans, is his ſure Protecti<g ref="char:EOLhyphen"/>on. VVhen he is come home, he ſhews his manhood in Swearing at, or perhaps fighting with his VVife, Maid, or Children; and
+<pb n="4" facs="tcp:109783:3"/>when he wakes next morning, runs the hazzard of a Conſumption in contemplating <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he danger he went, by his laſt Nights Valour.</p>
+               <p>Though he is naturally an Epicure; yet he often curſes the Cuſtom of Eating, be<g ref="char:EOLhyphen"/>cauſe there are generally <hi>Knives</hi> us'd in it; and fore-ſwears drinking out of a <hi>Quart-pot,</hi> becauſe the Mouth of it looks ſo like the muzzel of a Musket.</p>
+               <p>Like ſilly Children, he thinks the whole <hi>Firmament</hi> is compos'd of Smoak, and con<g ref="char:EOLhyphen"/>cludes he can live no where, but under that part of it which was compos'd by his own Chimney: Like a Fiſh, he breaths his de<g ref="char:EOLhyphen"/>ſtruction out of his own Element, and no<g ref="char:EOLhyphen"/>thing under a <hi>Sub-poena</hi> can drag him out of his Native Country. His greateſt pique a<g ref="char:EOLhyphen"/>gainſt <hi>England</hi> is, that it is an Iſland, and thinks there is danger enough in a Battle be<g ref="char:EOLhyphen"/>yond Sea, without an unneceſſary hazard<g ref="char:EOLhyphen"/>ing of ones Life to go to it. He had rather be covered with <hi>Newgate</hi> at home, than with a Coat of Male abroad; becauſe the Stone is the more ſure Defence, and is ſitu<g ref="char:EOLhyphen"/>ate in leſs danger.</p>
+               <p>To conclude, he is at beſt but the skin of a man ſtufft with Cowardice; like a Cin<g ref="char:EOLhyphen"/>amon Tree, his Bark is more valuable than his Bulk; ſo hollow-hearted, that if he ſtrikes but his hand on his breaſt, it ſounds like a Drum, and his ſhirt runs the hazard of a <hi>Contamination,</hi> at the meer apprehen<g ref="char:EOLhyphen"/>ſion of a War. He looks like one of <hi>Prome<g ref="char:EOLhyphen"/>theus</hi> his Images unfir'd; like one of Natures Caſt-by's, whom fearing he ſhould take up anothers room, ſhe huddl'd up in a hurry, and produc't with ſuch diſpatch, that the haſty Mid-wife was forc't to pluck out his body with ſuch ſpeed, that ſhe left his ſoul in his Mothers Womb.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>With Allowance,</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>E. W.</hi> for <hi>J. Gibbs.</hi> 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
